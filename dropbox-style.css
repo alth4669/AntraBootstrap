@@ -1,0 +1,29 @@
+#logo, #logo-text {
+    max-height: 2em;
+}
+
+.row {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+#login .row {
+    padding-top: .5em;
+    padding-bottom: .5em;
+}
+
+img {
+    max-width: 100%;
+}
+
+.left-icon-holder {
+    position: relative;
+}
+
+.left-icon-holder {
+    position:absolute;
+    line-height: 24px;
+    top:50%;
+    margin-top: -12px;
+    left: 10px;
+}
